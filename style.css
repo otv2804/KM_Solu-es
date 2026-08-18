@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Iosevka Charon", monospace;
+    font-weight: 400;
+    font-style: normal;
+  
+}
+
+Body{
+    background-color: #3A0701;
+}
+
+.cabeçalho{
+    background-color: #F7F8E7;
+    display: flex;
+    gap: 100px;
+}
+
+.Logo_Km{
+    height: 10%;
+    width: 10%;
+}
+
+.palavras_Guia{
+    display: flex;
+    gap: 100px;
+    margin-top: 20px;
+}
