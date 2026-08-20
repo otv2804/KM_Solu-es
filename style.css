@@ -27,3 +27,38 @@ Body{
     gap: 100px;
     margin-top: 20px;
 }
+
+.H_Sistemas:hover{
+    color: rgb(158, 120, 120);
+}
+
+.H_Serviços:hover{
+    color: rgb(158, 120, 120);
+}
+
+.H_Avaliaçoes:hover{
+    color: rgb(158, 120, 120);
+}
+
+.H_Contato:hover{
+    color: rgb(158, 120, 120);
+}
+
+.H_Suporte:hover{
+    color: rgb(158, 120, 120);
+}
+
+.pessoa_Trabalhando{
+    height: 900px;
+    width: 1920px;
+}
+
+.detalhes{
+    background-color: #FF3131;
+    background-color: rgb(from #FF3131 r g b / 80%);
+    display: flex;
+    justify-content: end;
+    height: 185px;
+    width: 370px;
+    padding: 20px;
+}
