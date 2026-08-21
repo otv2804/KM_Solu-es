@@ -9,6 +9,7 @@
 
 Body{
     background-color: #3A0701;
+
 }
 
 .cabeçalho{
@@ -48,11 +49,14 @@ Body{
     color: rgb(158, 120, 120);
 }
 
-.pessoa_Trabalhando{
-    height: 900px;
-    width: 1920px;
-}
+.primeiro_Conteúdo{
+    background-image: url('imgs/pessoa_trabalhando.avif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 54pc;
 
+}
 .detalhes{
     background-color: #FF3131;
     background-color: rgb(from #FF3131 r g b / 80%);
